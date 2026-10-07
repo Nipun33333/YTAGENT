@@ -1,0 +1,2 @@
+# Add one topic per line to prevent reuse.
+# This file is user-managed and intentionally contains no built-in old-niche topics.
